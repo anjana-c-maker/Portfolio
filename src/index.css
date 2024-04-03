@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url(https://fonts.google.com/share?selection.family=Raleway:ital,wght@0,100..900;1,100..900);
+
+
+@layer base{
+    body{
+        @apply font-[Raleway];
+
+    }
+    li{
+        @apply px-4;
+        @apply cursor-pointer;
+    }
+}
