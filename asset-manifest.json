@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/anjana-c-maker/Portfolio.git/static/css/main.59a28e9b.css",
-    "main.js": "/anjana-c-maker/Portfolio.git/static/js/main.3b13c40b.js",
-    "static/media/logo.png": "/anjana-c-maker/Portfolio.git/static/media/logo.54c6572456c7d3c0a554.png",
-    "index.html": "/anjana-c-maker/Portfolio.git/index.html",
-    "main.59a28e9b.css.map": "/anjana-c-maker/Portfolio.git/static/css/main.59a28e9b.css.map",
-    "main.3b13c40b.js.map": "/anjana-c-maker/Portfolio.git/static/js/main.3b13c40b.js.map"
+    "main.css": "/npm%20run%20build/static/css/main.59a28e9b.css",
+    "main.js": "/npm%20run%20build/static/js/main.c65df9f3.js",
+    "static/media/logo.png": "/npm%20run%20build/static/media/logo.54c6572456c7d3c0a554.png",
+    "index.html": "/npm%20run%20build/index.html",
+    "main.59a28e9b.css.map": "/npm%20run%20build/static/css/main.59a28e9b.css.map",
+    "main.c65df9f3.js.map": "/npm%20run%20build/static/js/main.c65df9f3.js.map"
   },
   "entrypoints": [
     "static/css/main.59a28e9b.css",
-    "static/js/main.3b13c40b.js"
+    "static/js/main.c65df9f3.js"
   ]
 }
